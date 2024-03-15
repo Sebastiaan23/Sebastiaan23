@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sebastiaan23
 - 👀 I’m interested in making cool projects!
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Security and Compliance
 - 💞️ I’m looking to collaborate on challanging projects
 - 📫 Send me a message!
 
